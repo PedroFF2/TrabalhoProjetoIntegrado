@@ -1,0 +1,52 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://depositphotos_69665391-stock-photo-top-view-of-soccer-field.jpg" type="Texture" id=1]
+[ext_resource path="res://Barras.png" type="Texture" id=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="depositphotos_69665391-stock-photo-top-view-of-soccer-field" type="Sprite" parent="."]
+position = Vector2( 885.048, 269.273 )
+scale = Vector2( 2.27428, 1.97283 )
+texture = ExtResource( 1 )
+offset = Vector2( -162.987, 15.2239 )
+
+[node name="Barra8" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( 31.9656, 9.13653 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
+
+[node name="Barra7" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( -21.1685, 12.9648 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
+
+[node name="Barra6" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( -79.8372, 10.4126 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
+
+[node name="Barra5" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( -136.575, 15.7335 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
+
+[node name="Barra4" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( -188.854, 9.82145 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
+
+[node name="Barra3" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( -250.157, 5.58932 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
+
+[node name="Barra2" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( -305.113, 2.6333 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
+
+[node name="Barra" type="Sprite" parent="depositphotos_69665391-stock-photo-top-view-of-soccer-field"]
+position = Vector2( -357.936, 2.04208 )
+scale = Vector2( 0.235844, 2.02874 )
+texture = ExtResource( 2 )
